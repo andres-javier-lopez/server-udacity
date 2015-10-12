@@ -6,6 +6,14 @@
 
 SSH Port 2200
 
+## Administration ##
+
+Sudo password for _grader_: `graduda`
+
+To access PostgreSQL database:
+* `sudo -i -u catalog`
+* `psql`
+
 ## Application URL ##
 
 http://ec2-52-89-3-21.us-west-2.compute.amazonaws.com/
